@@ -1,0 +1,12 @@
+.body{
+    text-align: center;
+}
+.click{
+    background-color: rgb(166, 227, 245);
+    border-radius: 50%;
+    height: 50px;
+    width: 70px;
+}
+.image{
+    border-radius: 50%;
+}
